@@ -73,3 +73,16 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Shader cache
+*.upipelinecache
+ShaderDebugInfo/
+
+# Packaging output
+*.pak
+*.ucas
+*.utoc
